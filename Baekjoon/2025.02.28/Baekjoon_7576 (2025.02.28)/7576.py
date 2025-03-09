@@ -1,4 +1,4 @@
-# 백준 7576 토마토 (2025.02.28)
+# Baekjoon 7576 토마토 (2025.02.28)
 M, N = map(int, input().split())
 arr = [list(map(int, input().split())) for _ in range(N)]
 q = [[0, 0]] * (N * M)
